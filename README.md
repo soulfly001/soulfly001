@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soulfly001)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulfly001)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=soulfly001&left_color=green&right_color=red)
